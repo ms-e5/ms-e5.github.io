@@ -1,4 +1,4 @@
-# e5-Auto
+# e5-renew
 
 懒人续订  
 感谢大佬为我们带来的福利。  
@@ -16,3 +16,8 @@ https://github.com/holy4040/microsoft_outlookAPI
 https://github.com/BeiliLu1986/Outlook-APIs  
 https://github.com/chjeronimo/php_outlook  
 https://github.com/rob893/outlookProject  
+
+# 其他
+textnow.com  
+https://github.com/Ashesh3/textnow-ping  
+https://github.com/Issac-v/textnowProtect
