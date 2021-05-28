@@ -19,5 +19,5 @@ https://github.com/rob893/outlookProject
 
 # 其他
 textnow.com  
-https://github.com/Ashesh3/textnow-ping  
-https://github.com/Issac-v/textnowProtect
+[Ashesh3/textnow-ping](https://github.com/Ashesh3/textnow-ping)  
+[Issac-v/textnowProtect](https://github.com/Issac-v/textnowProtect)  
